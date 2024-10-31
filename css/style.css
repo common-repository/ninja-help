@@ -1,0 +1,27 @@
+.slide-out-div {
+	padding: 15px 20px;
+	width: 250px;
+	background: #FFF;
+	border:3px solid #000000;
+}
+.slide-out-div > a{
+top: -3px;
+}
+.Ninja-Help-contact-form-wrap hr{
+	border: 1px solid #000000;
+}
+.Ninja-Help-contact-form-title {
+	font-size: 18px;
+	line-height: 20px;
+	font-weight: bold;
+}
+.Ninja-Help-contact-form-content p{
+	margin: 5px 0;
+}
+.Ninja-Help-contact-form-content input[type=text]{
+	width: 250px;
+}
+.Ninja-Help-contact-form-content textarea{
+	width: 250px;
+	height: 50px;
+}
